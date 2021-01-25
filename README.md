@@ -1,5 +1,7 @@
 # Flow Rate Gauge for Acaia Scales
 
+![Screeshot](/screenshot.png?raw=true)
+
 This simple Python app features a gauge 
 showing the flow rate in grams/second (or ounces/second),
 as well as the weight and the scale timer.  It is designed for
