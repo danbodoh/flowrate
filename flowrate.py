@@ -1,4 +1,7 @@
-#!/usr/bin/python3
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# Copyright (c) 2021 Dan Bodoh
+# Released under GPLv3
 
 import tkinter as tk
 from math import floor
